@@ -1,5 +1,5 @@
 #Author- Samiya Bhogal
-#Description- Giving a beam or channel number and then drawing sketch according to specifications
+#Description- Giving a beam or channel number and then drawing sketch in fusion according to specifications
 
 import adsk.core, adsk.fusion, adsk.cam, traceback
 
